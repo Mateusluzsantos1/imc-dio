@@ -10,7 +10,7 @@
     - Entre 30 e 40 Obeso;
     - Acima de 40 Obsesidade Grave;
 */
-const peso = 1;
+const peso = 50;
 const altura = 1.75;
 
 const imc = peso / Math.pow(altura, 2);
